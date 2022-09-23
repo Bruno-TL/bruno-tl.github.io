@@ -1,0 +1,26 @@
+body{
+    background-image: url(./src/pexels-mateusz-dach-450035.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+
+h1{
+    color: #dedede;
+    background-color: #4fb191be;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+img {
+    width: 20%;
+}
